@@ -1,2 +1,2 @@
-# Smart Pay 4 UI
+# React Webpack Babel SCSS Boiler Template
 
